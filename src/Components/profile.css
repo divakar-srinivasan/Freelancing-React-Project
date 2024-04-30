@@ -1,0 +1,22 @@
+.pro-container{
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+}
+.pro-top-container{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(137, 76, 76);
+    border-bottom: 1px solid white;
+    display: flex;
+    align-items: center;
+}
+.pro-bottom-container{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(152, 35, 35);
+    overflow-y: scroll;
+}
+.pro-profile{
+    font-size: 100px;
+}
